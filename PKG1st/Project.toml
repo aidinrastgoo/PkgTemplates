@@ -1,0 +1,7 @@
+name = "PKG1st"
+uuid = "0c18e165-c4b4-4b8b-940c-9b6d4b7db562"
+authors = ["Aidin Rastgoo <aidinrastgoo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
